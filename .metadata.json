@@ -1,0 +1,10 @@
+[
+  {
+    "package": "dados",
+    "oncran": true
+  },
+  {
+    "package": "datos",
+    "oncran": true
+  }
+]
